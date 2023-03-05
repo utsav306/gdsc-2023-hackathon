@@ -8,17 +8,15 @@ body{
 
 
 nav {
-  margin-left: 45%;
+  margin-left: 50%;
   height:5rem;
- top:auto;
- margin-right:  4rem;
-  
-  
+   top:0;
 }
 
 
 
 header{
+  
   top: 0;
  
 }
@@ -35,6 +33,7 @@ header{
 .border-hover:hover {
   border-top: 5px solid #ff9138;
   transform: translateY(-4px);
+  
 }
 
 #sign-in {
@@ -66,7 +65,16 @@ header{
   #nav-length {
       width: 100%;
   }
+  nav {
+    margin-left: 20%;
+    height:5rem;
+    
+    margin-right: 10%;
+
   
+    
+    
+  }
 
   .border-hover {
       border-top: 0;
